@@ -2,7 +2,7 @@
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri ="http://localhost:3000/";
+const redirectUri ="https://main.dt81yhxnyustf.amplifyapp.com/";
 const clientId = "c8abc45b7fa14ced978e301f0a6129b5";
 
 const scopes = [
